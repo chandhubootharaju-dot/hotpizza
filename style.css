@@ -1,0 +1,22 @@
+body{
+    background-image: url(photo3.jpg);
+    background-repeat: no-repeat;
+    background-size: 1400px 700px;
+}
+h1,h2{
+    color:orange;
+    font-size: 50px;
+}
+button{
+    height: 50px;
+    width: 100px;
+    background-color: whitesmoke;
+    font-size: 22px;
+    border-radius: 35px;
+} 
+h1,h2{
+    margin-left: 500px; 
+}
+#text1{
+    margin-left: 550px;
+}   
